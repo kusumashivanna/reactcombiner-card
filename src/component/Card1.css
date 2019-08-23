@@ -1,0 +1,55 @@
+.container {
+    position: relative;
+    color: white;
+    font-size: larger;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    max-height: 700px;
+    margin: auto;
+    text-align: left;
+    font-family: arial, fantasy;
+    width: 500px;
+    height: 600px;
+  }
+  
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 20px;
+  }
+  
+  .top-left {
+    top: 8px;
+    position: absolute;
+    left: -10px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+  }
+  
+  .round3 {
+  border-radius: 1px 30px 30px 0px;
+    background: black;
+    padding: 20px;
+    width: 100px;
+    height: 60px;
+    color:white;
+    
+   
+  }
+  .img {
+    width: 100%;
+    height: 100%;
+  }
+  .icon
+  {
+      font-size: 30px ;
+      height:10px;
+      width:10px;
+  
+  }
+  
